@@ -1,0 +1,73 @@
+<html>
+<head>
+	<title>SD Garden</title>
+	<link rel="stylesheet" href="sarah.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css">
+	
+</head>
+<body>
+<div class= "container">
+	<div class= "row">
+		<div class="toolbar">
+						<div class= "two and one-third columns">
+				<a href="home.html"><h4>Home</h4</a>
+			</div>
+			<div class= "two  and one-third  columns">
+				<a href="research.html"><h4>Research</h4></a>
+			</div>
+			<div class= "two and one-third columns">
+				<a href= "garden.html"><h4>Garden</h4></a>
+			</div>
+				<div class= "five columns">
+				<a href= "neuroprosthetics.html"><h4>Why Neuroprosthetics?</h4></a>
+			</div>
+		</div>
+	</div>
+</div>
+
+	<div class = "float">
+	<h2> Sarah Davis </h2>
+	</div>
+	<div class= "main">
+	</div>
+
+	<div class= "container">
+		<div class= "row top">
+		<h2> Welcome to my oasis!</H2>
+		</div>
+			<div class="row">
+			
+			<div class=" four and one-half columns">
+			<p>A scientist by day and an amature at whatever I can get my hands on by night, I spend much of my free time working on another project close to my heart, my garden.
+			After purchasing a home, my husband and I were stunned to find that almost every plant in the garden was considered to be invasive in the state of Indiana.  My latest 
+			project has been removing four honeysuckle vines, three honeysuckle bushes, two white mulberry trees, one jetbead bush (Rhodotypos scandens), two callery pears, and quite a few 
+			weedy rose of sharon shrubs. I have been captivated by the idea that we can create wildlife oases to connect natural habitats for local critters. I am working on slowly replacing 
+			these plants with ecologically relevant species that will provide needed habitat for our local wildlife populations. I have had some success at attracting monarchs last year after 
+			replacing a honeysuckle beds with milkweed (Asclepias incarnata). Within a few weeks a monarch caterpillar had appeared and I have been fortunate to spy whats left of a few chrysalis after the monarch emerges. </p>
+			</div>
+			<div class=" seven and one-half columns">
+			<img class="bragBig" src="images/Critters.jpg" />
+			</div>
+			
+
+			</div>
+
+			<p><h5> 
+			I found a monarch caterpillar munching on some milkweed that I had planted just a few weeks prior! </h5></p>
+
+			<div class="row">
+			
+			<div class= "three columns">
+			</div>
+			<div class=" seven columns">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/nuLJAwErkfw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</p> <p>embeding code provided by <a href="youtube.com">YouTube</a></p>
+			</div>
+			<div class= "two columns">
+			</div>
+			</div>
+			<p> <h5> This is an ongoing project and while I still have a lot to 
+			learn, I am excited to <i>dig in!</i> </p>
+	
+</div>
+Layout by <a href="http://getskeleton.com/">Skeleton</a>

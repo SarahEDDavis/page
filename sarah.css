@@ -1,0 +1,84 @@
+.main {
+	background-image: url('images/ic.jpg');
+	background-color: #111111;
+	height: 700px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 12px;
+	background-attachment:fixed;
+}
+.resume{
+	background-image: url('images/butterfly2.jpg');
+	background-color: #111111;
+	height: 200px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 12px;
+	background-attachment:fixed;
+}
+.top{
+	margin-top: 50px;
+}
+.me{
+	border-radius: 50%;
+	max-height: 600px;
+}
+.brag{
+border-radius: 4px;
+max-width: 100%;
+max-height: auto;
+}
+.bragSm{
+border-radius: 4px;
+max-width: 50%;
+max-height: auto;
+}
+.bragBig{
+position: center;
+border-radius: 4px;
+max-width: 200%;
+max-height: auto;
+}
+.toolbar{
+	text-align: center;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+.name{
+	
+}
+.float{
+	position: absolute;
+	top: 10px;
+	left: 15px;
+}
+a:link {
+	font-weight: bold;
+	color: black;
+	text-decoration: none;
+}
+a:visited {
+	font-weight: bold;
+	color: #616161;
+	text-decoration: none;
+}
+a:hover {
+		font-weight: bold;
+		color: black;
+}
+a:active {
+	font-weight: bold;
+	color: black;
+	text-decoration: underline;
+}
+.thisOne {
+	font-size: 1.1em;
+}
+.soon {
+		font-size: 1.5em;
+}
+.newest{
+	max-width: 99%;
+	max-height:99%;
+}
